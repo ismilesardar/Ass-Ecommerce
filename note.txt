@@ -1,6 +1,8 @@
 My client side repository Link
+https://github.com/ismilesardar/Ass-Ecommerce/tree/master/client
 
 MY server side repository Link
+https://github.com/ismilesardar/Ass-Ecommerce/tree/master/server
 
 
 My deployed version link
