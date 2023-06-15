@@ -1,8 +1,18 @@
-My client side repository Link
+/*========== My client side repository Link =======*/
 https://github.com/ismilesardar/Ass-Ecommerce/tree/master/client
 
-MY server side repository Link
+/*========== MY server side repository Link =======*/
 https://github.com/ismilesardar/Ass-Ecommerce/tree/master/server
 
+/*========== My deployed version link =======*/
+https://ismile-ecommerce.netlify.app/
 
-My deployed version link
+/*=== Admin ===*/
+Email: ismile@gmail.com
+password: 1234567
+
+ => If you are Registration this site. you are become a user. So go to Register tab and Sing Up.
+ => Password must be 6 characters.
+ => All fields are required.
+
+
